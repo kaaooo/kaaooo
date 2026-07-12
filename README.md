@@ -4,7 +4,7 @@
 
 # hey, i'm kao 🐾
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=D9A05B&center=true&vCenter=true&width=500&lines=discord+developer;i+build+custom+bots;i+set+up+servers;dm+me+if+something's+broken" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=900&color=D9A05B&center=true&vCenter=true&width=500&lines=discord+developer+%F0%9F%90%BE;i+build+custom+bots;i+set+up+servers+from+scratch;probably+debugging+something+rn;dm+me+if+you+need+a+bot" alt="typing"/>
 
 <a href="https://discord.com/users/1502961490838294590/">💬 discord</a> &nbsp;•&nbsp;
 <a href="https://kaaooosupport.vercel.app/">🌐 site</a> &nbsp;•&nbsp;
