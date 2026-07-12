@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="cat" width="120" height="120">
   <h1>
-    👋 heya! i'm kao!
+    👋 hey! i'm kao! And ready to Help
   </h1>
 </div>
 <p float="left">
