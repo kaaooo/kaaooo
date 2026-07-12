@@ -21,7 +21,7 @@
         <br />
         <br />
       <p>
-        <a href="https://discord.com/users/1502961490838294590"><img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=302C32&showDisplayName=true&hideDecoration=true" /></a>
+        <a href="https://discord.com/users/1502961490838294590"><img src="https://lanyard.cnrad.dev/api/1502961490838294590?bg=302C32&showDisplayName=true&hideDecoration=true" /></a>
         <p></p>
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaaooo&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=435&card_height=175&background=302C33" alt="GitHub Streak" /></a>
       </p>
