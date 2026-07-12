@@ -4,7 +4,7 @@
 
 # hey, i'm kao 🐾
 
-### discord dev — bots, servers, and whatever breaks along the way
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=D9A05B&center=true&vCenter=true&width=500&lines=discord+developer;i+build+custom+bots;i+set+up+servers;dm+me+if+something's+broken" alt="typing"/>
 
 <a href="https://discord.com/users/1502961490838294590/">💬 discord</a> &nbsp;•&nbsp;
 <a href="https://kaaooosupport.vercel.app/">🌐 site</a> &nbsp;•&nbsp;
@@ -24,7 +24,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kaaooo&theme=gruvbox&hide_border=true&border_radius=12&background=1A1410&stroke=D9A05B&ring=D9A05B&fire=D9A05B&currStreakLabel=D9A05B" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaaooo&theme=gruvbox&hide_border=true&border_radius=12&background=1A1410&stroke=D9A05B&ring=D9A05B&fire=D9A05B&currStreakLabel=D9A05B" alt="streak stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaooo&layout=compact&hide_border=true&border_radius=12&bg_color=1A1410&title_color=D9A05B&text_color=D9A05B&langs_count=6" alt="top langs" height="165"/>
 
 </div>
 
