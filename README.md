@@ -1,40 +1,57 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="cat" width="120" height="120">
-  <h1>
-    👋 hey! i'm kao! And ready to Help
-  </h1>
+
+<img src="https://i.pinimg.com/736x/e0/5d/b1/e05db1d0bb852fd886c84e55e0ccd148.jpg" width="140" height="140" style="border-radius:50%;" alt="kao"/>
+
+# hey, i'm kao 🐾
+
+### discord dev — bots, servers, and whatever breaks along the way
+
+<a href="https://discord.com/users/1502961490838294590/">💬 discord</a> &nbsp;•&nbsp;
+<a href="https://kaaooosupport.vercel.app/">🌐 site</a> &nbsp;•&nbsp;
+<a href="mailto:you@example.com">✉️ email</a>
+
 </div>
-<p float="left">
-  <div>
-    <img align="left" width="365px" alt="cat photo left side" src="https://github.com/kaaooo/kaaooo/blob/main/cat.jpeg">
-  </div>
-  </p>
-  <p float="left">
-    <div align="center">
-      <p>
-        <br />
-        discord developer ~ i make custom bots, servers & more ~ 🐱
-        <br />
-        <a href="https://discord.com/users/1502961490838294590/">discord</a> ~ 
-        <a href="https://kaaooosupport.vercel.app/">personal site</a> ~
-        <a href="mailto:you@example.com">email</a>
-        <br />
-        <br />
-      <p>
-        <a href="https://discord.com/users/1502961490838294590"><img src="https://lanyard.cnrad.dev/api/1502961490838294590?bg=302C32&showDisplayName=true&hideDecoration=true" /></a>
-        <p></p>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaaooo&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=435&card_height=175&background=302C33" alt="GitHub Streak" /></a>
-      </p>
-    </div>
-  </p>
-</p>
-<h1 className="spacer"></h1>
-<div align=center >
-  <img src="https://komarev.com/ghpvc/?username=kaaooo" alt="kaaooo Profile View Counter"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue" alt="Windows"> <img src="https://img.shields.io/badge/Lang-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Lib-Discord.js-blue?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"> <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/Setup-DotFiles-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="DotFiles">
-</div>
-<p align="center">
-  dm me if you want a bot built or a server set up or custom plugins :)
-</p>
+
+<br/>
+
 <div align="center">
-  <img src="lower.svg" alt="footer line" width="100%" />
+
+<a href="https://discord.com/users/1502961490838294590"><img src="https://lanyard.cnrad.dev/api/1502961490838294590?bg=1a1410&borderRadius=12px&showDisplayName=true&hideDecoration=true" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaaooo&theme=gruvbox&hide_border=true&border_radius=12&background=1A1410&stroke=D9A05B&ring=D9A05B&fire=D9A05B&currStreakLabel=D9A05B" alt="streak stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**what i build with**
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1a1410?style=for-the-badge&logo=javascript&logoColor=D9A05B)
+![Node.js](https://img.shields.io/badge/NODE.JS-1a1410?style=for-the-badge&logo=node.js&logoColor=D9A05B)
+![Discord.js](https://img.shields.io/badge/DISCORD.JS-1a1410?style=for-the-badge&logo=discord&logoColor=D9A05B)
+![VSCode](https://img.shields.io/badge/VSCODE-1a1410?style=for-the-badge&logo=visualstudiocode&logoColor=D9A05B)
+![Windows](https://img.shields.io/badge/WINDOWS-1a1410?style=for-the-badge&logo=windows&logoColor=D9A05B)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![profile views](https://komarev.com/ghpvc/?username=kaaooo&label=views&color=D9A05B&style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+<sub>dm me on discord if you want a bot built, a server set up, or custom plugins :)</sub>
+
 </div>
