@@ -25,7 +25,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kaaooo&theme=gruvbox&hide_border=true&border_radius=12&background=1A1410&stroke=D9A05B&ring=D9A05B&fire=D9A05B&currStreakLabel=D9A05B" alt="streak stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaooo&layout=compact&hide_border=true&border_radius=12&bg_color=1A1410&title_color=D9A05B&text_color=D9A05B&langs_count=6" alt="top langs" height="165"/>
 
 </div>
 
